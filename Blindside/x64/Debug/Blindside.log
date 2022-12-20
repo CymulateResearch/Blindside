@@ -1,0 +1,6 @@
+﻿  Blindside.cpp
+C:\Users\ilanka.CYMRESEARCH\source\repos\Blindside\Blindside\Blindside.cpp(160,113): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+C:\Users\ilanka.CYMRESEARCH\source\repos\Blindside\Blindside\Blindside.cpp(160,101): warning C4309: 'argument': truncation of constant value
+C:\Users\ilanka.CYMRESEARCH\source\repos\Blindside\Blindside\Blindside.cpp(262,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'size_t'
+C:\Users\ilanka.CYMRESEARCH\source\repos\Blindside\Blindside\Blindside.cpp(271,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'size_t'
+  Blindside.vcxproj -> C:\Users\ilanka.CYMRESEARCH\source\repos\Blindside\x64\Debug\Blindside.exe
